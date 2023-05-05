@@ -9,8 +9,8 @@
 
 ### Beyond MVP:
 1. Extra HTML, CSS, and Bootstrap
-2. Unique Layout
-3. More Componets
+2. Unique Layout for each section
+3. More and different Componets
 
 # *Timeline:*
 1. Plan.md
